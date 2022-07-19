@@ -432,13 +432,11 @@
     fastq "^1.6.0"
 
 "@nuxt-themes/config@npm:@nuxt-themes/config-edge@latest":
-  version "0.0.1-27636489.e304dd2"
-  resolved "https://registry.yarnpkg.com/@nuxt-themes/config-edge/-/config-edge-0.0.1-27636489.e304dd2.tgz#fa45a267b071d6a591774e331d691a51ec1b9fd1"
-  integrity sha512-jKPPmsLG9+nciLHRhJMvac0x0MItyGydI80w2txnD4kGo3sq7fi6l0Iv4rT2siFXGquypxynkamyUWsKc0R5Gg==
+  version "0.0.1-27636681.ac2951c"
+  resolved "https://registry.yarnpkg.com/@nuxt-themes/config-edge/-/config-edge-0.0.1-27636681.ac2951c.tgz#56db6829259658a01d5f360923133186543ec621"
+  integrity sha512-ylt723BisRtJUbKxlNOhwkW1jYF+2MAGPmTY/xhzSIzfym6Fkl9JWa9Hcr+Qbd9q51Z/O/bctUXIPPRcAu4Lew==
   dependencies:
     "@nuxt/kit" "^3.0.0-rc.6"
-    "@types/lodash.get" "^4.4.7"
-    lodash.get "^4.4.2"
     untyped "^0.4.4"
 
 "@nuxt-themes/docus@npm:@nuxt-themes/docus-edge@latest":
@@ -744,15 +742,13 @@
     pathe "^0.3.0"
 
 "@nuxtjs/design-tokens@npm:@nuxtjs/design-tokens-edge@latest":
-  version "0.0.1-27636462.86547f9"
-  resolved "https://registry.yarnpkg.com/@nuxtjs/design-tokens-edge/-/design-tokens-edge-0.0.1-27636462.86547f9.tgz#2250946f6834bcb33f1702b5de3583918d0c17aa"
-  integrity sha512-XLvj6H7+mwPj842+c8pfvanABVqdtNUguTyCjRpwpeeddvZFSOeTh/aW7uMsnjHNQQ8p8jFhkknrH/mNnVNlJQ==
+  version "0.0.1-27636649.805494"
+  resolved "https://registry.yarnpkg.com/@nuxtjs/design-tokens-edge/-/design-tokens-edge-0.0.1-27636649.805494.tgz#48dcfe7b2ba80c2cad6e2bb87fcae244f16781f4"
+  integrity sha512-9NQVlyJFQVVAv+x60El8qZvErUp2TA4m280JFwFoAMztwK96aUToXByls8I+WwfhNabHi8h/OaI2HaITKuCyBA==
   dependencies:
     "@nuxt/kit" "^3.0.0-rc.6"
-    "@types/lodash.get" "^4.4.7"
     browser-style-dictionary "^3.1.1-browser.1"
     chroma-js "^2.4.2"
-    lodash.get "^4.4.2"
     untyped "^0.4.4"
 
 "@nuxtjs/eslint-config-typescript@latest":
@@ -993,18 +989,6 @@
   version "0.0.29"
   resolved "https://registry.yarnpkg.com/@types/json5/-/json5-0.0.29.tgz#ee28707ae94e11d2b827bcbe5270bcea7f3e71ee"
   integrity sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==
-
-"@types/lodash.get@^4.4.7":
-  version "4.4.7"
-  resolved "https://registry.yarnpkg.com/@types/lodash.get/-/lodash.get-4.4.7.tgz#1ea63d8b94709f6bc9e231f252b31440abe312cf"
-  integrity sha512-af34Mj+KdDeuzsJBxc/XeTtOx0SZHZNLd+hdrn+PcKGQs0EG2TJTzQAOTCZTgDJCArahlCzLWSy8c2w59JRz7Q==
-  dependencies:
-    "@types/lodash" "*"
-
-"@types/lodash@*":
-  version "4.14.182"
-  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.182.tgz#05301a4d5e62963227eaafe0ce04dd77c54ea5c2"
-  integrity sha512-/THyiqyQAP9AfARo4pF+aCGcyiQ94tX/Is2I7HofNRqoYLgN1PBoOWu2/zTA5zMxzP5EFutMtWtGAFRKUe961Q==
 
 "@types/mdast@^3.0.0":
   version "3.0.10"
@@ -4602,11 +4586,6 @@ lodash.flatten@^4.4.0:
   version "4.4.0"
   resolved "https://registry.yarnpkg.com/lodash.flatten/-/lodash.flatten-4.4.0.tgz#f31c22225a9632d2bbf8e4addbef240aa765a61f"
   integrity sha512-C5N2Z3DgnnKr0LOpv/hKCgKdb7ZZwafIrsesve6lmzvZIRZRGaZ/l6Q8+2W7NaT+ZwO3fFlSCzCzrDCFdJfZ4g==
-
-lodash.get@^4.4.2:
-  version "4.4.2"
-  resolved "https://registry.yarnpkg.com/lodash.get/-/lodash.get-4.4.2.tgz#2d177f652fa31e939b4438d5341499dfa3825e99"
-  integrity sha512-z+Uw/vLuy6gQe8cfaFWD7p0wVv8fJl3mbzXh33RS+0oW2wvUqiRXiQ69gLWSLpgB5/6sU+r6BlQR0MBILadqTQ==
 
 lodash.isarguments@^3.1.0:
   version "3.1.0"
